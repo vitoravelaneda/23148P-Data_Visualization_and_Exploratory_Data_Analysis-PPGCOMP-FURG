@@ -14,6 +14,7 @@ This repository contains the notebooks with the solutions of the tasks carried o
 - Task 06: [Notebook](./tasks/task-06/171666_task06.ipynb) - [R Script](./tasks/task-06/171666_task06.R) - [PDF Solution](./tasks/task-06/171666_task06.pdf)
 - Task 07: [Notebook](./tasks/task-07/171666_task07.ipynb) - [R Script](./tasks/task-07/171666_task07.R) - [PDF Solution](./tasks/task-07/171666_task07.pdf)
 - Task 08: [Notebook](./tasks/task-08/171666_task08.ipynb) - [R Script](./tasks/task-08/171666_task08.R) - [PDF Solution](./tasks/task-08/171666_task08.pdf)
+- Task 09: [Notebook](./tasks/task-08/171666_task09.ipynb) - [R Script](./tasks/task-08/171666_task09.R) - [Graph 01](./tasks/task-09/mapa_instituicoes_por_uf.pdf) - [Graph 02](./tasks/task-09/Mapa_recursos_Total_Aprovado.pdf) - [Graph 03](./tasks/task-09/percentual_top_15_instituicoes_rs.pdf) - [Graph 04](./tasks/task-09/grafico_furg_Total_recursos.pdf) - [Graph 05](./tasks/task-09/grafico_furg_Bolsas_Aprov.pdf)
 
 
 ---------------------------------------------------------------------------------------------------------------
